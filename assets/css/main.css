@@ -2195,8 +2195,7 @@ input, select, textarea {
 			}
 
 		.image.avatar {
-			border: solid 2px #d9d9d9;	
-			;
+			border: solid 2px #d9d9d9;
 			border-radius: 100%;
 			overflow: hidden;
 
@@ -2721,6 +2720,7 @@ input, select, textarea {
 		top: 0;
 		width: 23em;
 		right: 0;
+		border-left: solid 2.5px #d9d9d9;
 	}
 
 		#header h1, #header h2, #header h3, #header h4, #header h5, #header h6 {
